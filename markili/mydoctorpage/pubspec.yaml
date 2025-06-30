@@ -1,0 +1,49 @@
+name: mydoctorpage
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^4.0.3  
+  table_calendar: ^3.0.0
+  flutter_map: ^0.13.1   
+  # flutter_map: ^0.14.0  
+  latlong2: ^0.8.0 
+  url_launcher: ^6.1.10 
+  equatable: ^2.0.5
+  flutter_bloc: ^8.1.6
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  google_maps_flutter: ^2.1.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/th.jpeg
+    - assets/brain.png
+    - assets/heart.png
+    - assets/tooth.png
+    - assets/gradient.png
+    - assets/lungs.png
+    - assets/eye.png
+    - assets/bones.png
+    - assets/kidneys.png
+    - assets/gastro.png
+    - assets/geneco.png
+    - assets/radio.png
+    - assets/orl.png
+    - assets/endocrino.png
+    - assets/more.png
+    - assets/docDefault.png
+    - assets/doctor_default_background.png
+    - assets/images/
+
