@@ -1,4 +1,4 @@
-# Doctor–Patient Appointment Management App
+# MARKILI - Doctor–Patient Appointment Management App
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -130,11 +130,12 @@ flutter run
 ## Development Team
 
 - SAADI Hana  
-- [Add other contributors if applicable]
-
+- DELENDA Insaf
+- LATRECHE Dhikra Maram
+- BOUSSEKINE Moussa
 ---
 
 <a id="license"></a>
 ## License
 
-This project is currently not under a specific license. A formal open-source license (e.g., MIT or GPL) may be added in future versions.
+This project is currently not under a specific license. A formal license  may be added in future versions.
